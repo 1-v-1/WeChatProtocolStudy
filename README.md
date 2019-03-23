@@ -5,7 +5,7 @@
 -------  
 https://github.com/neozgx/MicroChat  (这个代码把握解决两个问题，一是DNS重定向的问题，二是低版本登录限制的问题)
 
-https://github.com/neozgx/mars  
+https://github.com/neozgx/mars  (这是腾讯大大的mars源码,学习吧 骚年)
 
 腾讯Bugly干货分享 微信终端跨平台组件 Mars 系列 - 我们如约而至(这篇文章写得非常不错！！)
 https://blog.csdn.net/tencent_bugly/article/details/53992882
