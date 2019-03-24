@@ -3,9 +3,9 @@
 ==== 
 可翻阅仓库里fork来的 Microchat和MARS(思路来源)
 -------  
-https://github.com/neozgx/MicroChat  
+https://github.com/neozgx/MicroChat  (这个代码把握解决两个问题，一是DNS重定向的问题，二是低版本登录限制的问题)
 
-https://github.com/neozgx/mars  
+https://github.com/neozgx/mars  (这是腾讯大大的mars源码,学习吧 骚年)
 
 腾讯Bugly干货分享 微信终端跨平台组件 Mars 系列 - 我们如约而至(这篇文章写得非常不错！！)
 https://blog.csdn.net/tencent_bugly/article/details/53992882
@@ -14,14 +14,13 @@ https://blog.csdn.net/tencent_bugly/article/details/53992882
 -------  
 1.这是基于Android协议开发的部分功能客户端,自行下载测试(持续更新中)
 -------  
-https://github.com/neozgx/WeChatProtocolStudy/blob/master/AndroidWeChat_FOR_PC.zip
-![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190316223500.png)  
+![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/22.png)  
 2.这是基于MAC/IPAD协议的全功能客户端展示，这个就不放上来了,感觉想要学习整个框架还有底层的东西，还是需要好好研究基于MARS的采用mmtls的那一版  
 -------  
-![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/1.png)  
-![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/2.png)  
-![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/3.png)  
-![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/4.png)
+![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/1.png)  
+![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/2.png)  
+![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/3.png)  
+![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/4.png)
 
 
 
