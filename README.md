@@ -14,6 +14,8 @@ https://blog.csdn.net/tencent_bugly/article/details/53992882
 -------  
 1.这是基于Android协议开发的部分功能客户端,自行下载测试(持续更新中)
 -------  
+如果直接登录用不了可以联系我要这个允许低版本登录授权端
+![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/6.png)  
 ![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/5.png)  
 ![image](https://github.com/neozgx/WeChatProtocolStudy/blob/master/Image/22.png)  
 2.这是基于MAC/IPAD协议的全功能客户端展示，这个就不放上来了,感觉想要学习整个框架还有底层的东西，还是需要好好研究基于MARS的采用mmtls的那一版  
