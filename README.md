@@ -3,7 +3,7 @@
 ==== 
 可翻阅仓库里fork来的 Microchat和MARS(思路来源)
 -------  
-https://github.com/neozgx/MicroChat  (这个代码把握解决两个问题，一是DNS重定向的问题，二是低版本登录限制的问题)
+https://github.com/neozgx/MicroChat  
 
 https://github.com/neozgx/mars  (这是腾讯大大的mars源码,学习吧 骚年)
 
