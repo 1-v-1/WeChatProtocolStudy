@@ -3,7 +3,7 @@
 ==== 
 可翻阅仓库里fork来的 Microchat和MARS(思路来源)
 -------  
-https://github.com/neozgx/MicroChat  
+https://github.com/neozgx/MicroChat  (这是核心代码,可以自己编译成功后,运行即可 如果提示低版本或者其他错误可以联系我qq)
 
 https://github.com/neozgx/mars  (这是腾讯大大的mars源码,学习吧 骚年)
 
